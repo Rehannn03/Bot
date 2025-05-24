@@ -29,6 +29,18 @@ Go to the project directory
   cd Bot
 ```
 
+Add Virtual Environment
+```bash
+  python -m venv venv
+```
+
+Activate Virtual Environment
+```bash
+  venv\Scripts\activate (Windows)
+
+  bin venv\Scripts\activate (Mac)
+```
+
 Install dependencies
 
 ```bash
